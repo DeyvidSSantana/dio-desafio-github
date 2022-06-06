@@ -1,5 +1,0 @@
-Algoritmo - Curso em video
-Logica de Programação - Ifsul
-Lógica de Programação Essencial - DIO
-Introdução ao Git e ao GitHub - DIO
-Git e GitHub - Curso em video
