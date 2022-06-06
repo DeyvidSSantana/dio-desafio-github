@@ -1,0 +1,3 @@
+12:00 as 15:00 - Materias da Faculdade
+15:00 as 17:00 - Bootcamp
+17:00 as 18:00 - Cursos complementares
